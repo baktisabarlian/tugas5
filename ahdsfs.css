@@ -1,0 +1,15 @@
+.box{
+    background-color: green;
+    color: rgb(250, 250, 245);
+    width: auto;
+    height: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    border: blue;
+    text-align: justify;
+    text-decoration: line-through;
+    text-decoration-color: bisque;
+}
